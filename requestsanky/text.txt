@@ -8,4 +8,6 @@ streamlit
 plotly.graph_objects
 locale
 io
+plotly
 uuid
+openpyxl
